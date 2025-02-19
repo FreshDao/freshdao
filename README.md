@@ -1,2 +1,2 @@
 # freshdao
-online decentralized dapp
+online decentralized grocery store
